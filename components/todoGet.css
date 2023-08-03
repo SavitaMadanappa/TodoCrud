@@ -1,0 +1,70 @@
+.getbyid{
+    display: grid;
+    padding: 20px;
+    
+     border-radius: 15px;
+}
+
+.get{
+    border-radius: 15px;
+    height: 100px;
+    width: 250px;
+    background-color: white;
+    align-items: center;
+    display: grid;
+    height: auto;
+    width: 300px;
+    
+     margin: 100px,auto;
+}
+form{
+    display: grid;
+    margin: 10px;
+}
+input,button{
+    padding-left: 10px;
+    margin-left: 10px;
+    height: 30px;
+    width: 250px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    outline: transparent;
+    border: none;
+}
+label{
+    margin-left: 10px;
+    font-size: 14px;
+}
+button{
+    background-color: rgb(12, 150, 12);
+    color: white;
+}
+/* .table{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+} */
+td,th{
+    padding: 5px;
+}
+table{
+    background-color:  rgb(223, 244, 244);
+    border-radius: 7px;
+    box-shadow: inset 1px red;
+    border: 1px solid black;
+}
+#btn{
+    display: flex;
+    width: 180px;
+}
+.btn11{
+    background-color: rgb(46, 46, 220);
+    width: 80px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.btn12{
+    background-color: rgb(226, 66, 66);
+}

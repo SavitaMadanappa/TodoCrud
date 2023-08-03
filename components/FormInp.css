@@ -1,0 +1,20 @@
+input{
+    padding: 13px;
+    margin: 10px 0px;
+}
+span{
+    color: red;
+    font-size: 10px;
+    display: none;
+   
+}
+input:invalid[focused=true] ~span{
+display: block;
+}
+.formInput input[type="radio"] 
+{
+    color: blue;
+   display: inline;
+   
+   
+}

@@ -1,0 +1,26 @@
+#city{
+    display: inline;
+    height: 0px;
+    width: 70px;
+    position: relative;
+}
+select{
+    display: inline;
+    height: 30px;
+    width: 130px;
+    font-weight: 200;
+    color: rgb(24, 20, 20);
+    text-align: center;
+}
+legend{
+    font-weight: bold;
+    font-size: 10px;
+    text-shadow: gray 2px 2px 2px;
+}
+fieldset{
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
